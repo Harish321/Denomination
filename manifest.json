@@ -1,0 +1,51 @@
+{
+   "name":"Calculate Buddy",
+   "short_name":"Cal Buddy",
+   "start_url":"index.html",
+   "display":"standalone",
+   "background_color":"#fdfdfd",
+   "theme_color":"#db4938",
+   "orientation":"portrait-primary",
+   "icons":[
+      {
+         "src":"/icons/64x64.ico",
+         "type":"image/ico",
+         "sizes":"72x72"
+      },
+      {
+         "src":"/icons/128x128.ico",
+         "type":"image/ico",
+         "sizes":"96x96"
+      },
+      {
+         "src":"/icons/128x128.ico",
+         "type":"image/ico",
+         "sizes":"128x128"
+      },
+      {
+         "src":"/icons/128x128.ico",
+         "type":"image/ico",
+         "sizes":"144x144"
+      },
+      {
+         "src":"/icons/256x256.ico",
+         "type":"image/ico",
+         "sizes":"152x152"
+      },
+      {
+         "src":"/icons/256x256.ico",
+         "type":"image/ico",
+         "sizes":"192x192"
+      },
+      {
+         "src":"/icons/256x256.ico",
+         "type":"image/ico",
+         "sizes":"384x384"
+      },
+      {
+         "src":"/icons/256x256.ico",
+         "type":"image/ico",
+         "sizes":"512x512"
+      }
+   ]
+}
