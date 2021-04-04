@@ -1,0 +1,58 @@
+.main-sec{
+    font-family: monospace;
+}
+.head-sec{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    background: #289090;
+    color: white;
+    height: 30px;
+    margin-bottom: 5px;
+}
+.primary-amt-sec{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.primary-amt-sec input{
+    font-family: monospace;
+    color:green;
+}
+.load-amt-sec{
+    margin-bottom:10px;
+}
+.load-amt-sec input{
+    color:red;
+}
+.denomination-sec{
+    margin: 0px 20px;
+    display: grid;
+    grid-row-gap: 0.2rem;
+    margin-bottom: 15px;
+    margin-left: 30px;
+}
+.denomination-sec div{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.denom-input{
+    width: 40px;
+    border: none;
+    border-bottom: 1px solid #b8b5b5;
+    box-shadow: 0px 0px;
+}
+.other-accounts-sec{
+    display: grid;
+    grid-row-gap: 0.3rem;
+    grid-template-rows: 20px;
+}
+.result-sec{
+    display: flex;
+    border: 1px solid;
+    margin: 15px 15px;
+    padding: 26px;
+    font-size: 20px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}

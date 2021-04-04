@@ -4,4 +4,4 @@ A PWA application to capture the amount along with their denominations which is 
 
 [ Note ]
 
-Entire development for this application happend in gitpod online
+Entire development through gitpod.io
