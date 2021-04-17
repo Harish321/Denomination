@@ -1,6 +1,6 @@
 {
-   "name":"Calculate Buddy",
-   "short_name":"Cal Buddy",
+   "name":"E-Bunk Calculator",
+   "short_name":"E-Bunk Cal",
    "start_url":"index.html",
    "display":"standalone",
    "background_color":"#fdfdfd",
@@ -9,32 +9,32 @@
    "offline_enabled":true,
    "icons":[
       {
-         "src":"/icons/android/72.png",
+         "src":"/icons/android/i72.png",
          "type":"image/png",
          "sizes":"72x72"
       },
       {
-         "src":"/icons/android/96.png",
+         "src":"/icons/android/i96.png",
          "type":"image/png",
          "sizes":"96x96"
       },
       {
-         "src":"/icons/android/128.png",
+         "src":"/icons/android/i128.png",
          "type":"image/png",
          "sizes":"128x128"
       },
       {
-         "src":"/icons/android/144.png",
+         "src":"/icons/android/i144.png",
          "type":"image/png",
          "sizes":"144x144"
       },
       {
-         "src":"/icons/android/192.png",
+         "src":"/icons/android/i192.png",
          "type":"image/png",
          "sizes":"192x192"
       },
       {
-         "src":"/icons/android/512.png",
+         "src":"/icons/android/i512.png",
          "type":"image/png",
          "sizes":"512x512"
       }

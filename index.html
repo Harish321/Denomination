@@ -4,14 +4,16 @@
     <link rel="manifest" href="manifest.json"/>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Denomination</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.8.2/angular.min.js"></script>
+    <title>E-Bunk Calculator</title>
+    <script src="./angular.js"></script>
+    <script src="./uiRouter.js"></script>
     <script src="./app.js"></script>
     <script src="./install.js"></script>
     <link rel="stylesheet" href="style.css">
 </head>
 <body ng-app="denomination">
-    <calculate-buddy></calculate-buddy>    
+    <!-- <calculate-buddy></calculate-buddy>     -->
+    <ui-view></ui-view>
 </body>
 
 </html>

@@ -1,15 +1,19 @@
-const staticDevCoffee = "dev-coffee-site-v2"
+const staticDevCoffee = "dev-coffee-site-v5"
 const assets = [
     "/",
     "/index.html",
-    "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.8.2/angular.min.js",
     "/app.js",
     "/install.js",
-    "/icons/android/72.png",
-    "/icons/android/96.png",
-    "/icons/android/144.png",
-    "/icons/android/128.png",
-    "/icons/android/512.png",
+    "/icons/android/i72.png",
+    "/icons/android/i96.png",
+    "/icons/android/i144.png",
+    "/icons/android/i128.png",
+    "/icons/android/i512.png",
+    "/angular.js",
+    "/uiRouter.js",
+    "/style.css",
+    "/icons/denom.png",
+    "/icons/depth2.png"
 ]
 
 self.addEventListener("install", installEvent => {
