@@ -8,7 +8,7 @@ denomination.directive("calculateBuddy",function(){
         <div class="head-sec">
             <div class="go-back" ng-click="goBack()">Back</div>
             <div class="header">
-                Denomination
+                Denomination - V.1
             </div>
         </div>
         <div class="body-sec">
@@ -881,7 +881,7 @@ denomination.directive("calculateBuddy",function(){
     <div>
         <div class="head-sec">
             <div class="header">
-                E-Bunk Calculator
+                E-Bunk Calculator - V.1
             </div>
         </div>
         <div class="main-cal">
@@ -922,9 +922,9 @@ denomination.directive("calculateBuddy",function(){
                     <div class="go-back" ng-click="goBack()">Back</div>
                     <div class="header">Dip</div>
                 </div>
-                <div class="dip-sec">
+                <div class="body-sec dip-sec">
                     <input type='number' ng-model='dipValue' placeholder='Enter Dip'>
-                    <button ng-click='getDip()'>Calculate</button>
+                    <button class="dip-button" ng-click='getDip()'>Calculate</button>
                 </div>
                 <div class="result-sec">
                 <lable>Liters:</label>
